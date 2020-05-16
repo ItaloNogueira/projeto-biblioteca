@@ -1,0 +1,29 @@
+.width-cards {
+    max-width: 18rem;
+}
+
+.posicao-imagem-card {
+    object-fit: cover;
+    height: 300px;
+}
+
+.imagem-carrossel {
+    object-fit: cover;
+    height: 450px;
+}
+
+.font-titulo {
+    font-family: 'Lobster', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.tamanho-titulo {
+    font-size: 30px;
+}
+
+.texto-cor-especial {
+    color: white;
+}
